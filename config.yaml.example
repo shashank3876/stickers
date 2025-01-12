@@ -1,0 +1,7 @@
+returnLimit: ${RETURNLIMIT}
+username : "${USERNAME}"
+password : "${PASSWORD}"
+hostname : "${HOSTNAME}"
+port : ${PORT}
+databaseName : "${DATABASENAME}"
+
